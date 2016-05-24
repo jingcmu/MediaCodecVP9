@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jackychen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/jackychen/StudioProjects/MediaCodecTest/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-31ce393c4c7e6d35f1502aaec8a15704ee0a93d5.jar" />
+    </item>
+
+</items>
